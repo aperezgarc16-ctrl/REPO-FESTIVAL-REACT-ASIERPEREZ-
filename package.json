@@ -1,0 +1,25 @@
+{
+  "name": "repo-festival-react-asierperez-",
+  "version": "1.0.0",
+  "description": "Mi repositorio para el festival react",
+  "keywords": [
+    "dweb",
+    "dam",
+    "2ºB"
+  ],
+  "homepage": "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-#readme",
+  "bugs": {
+    "url": "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-.git"
+  },
+  "license": "ISC",
+  "author": "Asier Pérez",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
