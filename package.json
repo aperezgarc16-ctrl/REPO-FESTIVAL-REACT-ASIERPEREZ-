@@ -1,25 +1,36 @@
-{
-  "name": "repo-festival-react-asierperez-",
-  "version": "1.0.0",
-  "description": "Mi repositorio para el festival react",
-  "keywords": [
-    "dweb",
-    "dam",
-    "2ºB"
-  ],
-  "homepage": "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-#readme",
-  "bugs": {
-    "url": "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-.git"
-  },
-  "license": "ISC",
-  "author": "Asier Pérez",
-  "type": "commonjs",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+﻿{
+    "name":  "repo-festival-react-asierperez-",
+    "version":  "1.0.0",
+    "description":  "Mi repositorio para el festival react",
+    "keywords":  [
+                     "dweb",
+                     "dam",
+                     "2ÂºB"
+                 ],
+    "homepage":  "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-#readme",
+    "bugs":  {
+                 "url":  "https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-/issues"
+             },
+    "repository":  {
+                       "type":  "git",
+                       "url":  "git+https://github.com/aperezgarc16-ctrl/REPO-FESTIVAL-REACT-ASIERPEREZ-.git"
+                   },
+    "license":  "ISC",
+    "author":  "Asier PÃ©rez",
+    "type":  "module",
+    "main":  "index.js",
+    "scripts":  {
+                    "test":  "echo \"Error: no test specified\" \u0026\u0026 exit 1",
+                    "dev":  "vite",
+                    "build":  "vite build",
+                    "preview":  "vite preview"
+                },
+    "dependencies":  {
+                         "react":  "^19.3.1",
+                         "react-dom":  "^19.3.1"
+                     },
+    "devDependencies":  {
+                            "@vitejs/plugin-react":  "^6.3.0",
+                            "vite":  "^8.3.8"
+                        }
 }
